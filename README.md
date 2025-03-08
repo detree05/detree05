@@ -1,5 +1,3 @@
-## sup
-i write things from pure enthusiasm and for my own uses, but you always can look at them and i will be glad if any of my lines will inspire you on something ambitious
 
 <!--
 **detree05/detree05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
